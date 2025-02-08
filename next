@@ -1,4 +1,16 @@
 next
+    echo 
+
+next
+    war 
+
+next
+    direction 
+
+next
+    floor 
+
+next
     direction 
    in 
      theft 
@@ -53,3 +65,5 @@ next                   next   few
     item 
 next
     stage 
+next
+    car
